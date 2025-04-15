@@ -1,15 +1,14 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" alt="banner" style="width:100%;" />
-</p>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%;"/>
 
-<h1 align="center">👋 Xin chào, mình là Nguyễn Viết Hoàng</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Viết Hoàng</h1>
 
 <h3 align="center">
-  💻 Back-End Developer đến từ 🇻🇳 Việt Nam  
-  <br/>
-  🌟 Mục tiêu: Trở thành Full-Stack Developer chuyên nghiệp
+An enthusiastic Back-End developer from 🇻🇳 Vietnam, with a clear vision to become a professional Full-Stack Developer in the future.  
+Currently focusing on developing server-side systems with C# and the .NET platform, while constantly improving my Front-End skills to perfect my full-stack capabilities.
 </h3>
+
+<br/>
 
 ---
 
@@ -80,9 +79,10 @@
 ### 📊 Thống kê GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boylovegirl1005&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boylovegirl1005&layout=compact&theme=default" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boylovegirl1005&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boylovegirl1005&show_icons=true&theme=radical&border_radius=10&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boylovegirl1005&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boylovegirl1005&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
