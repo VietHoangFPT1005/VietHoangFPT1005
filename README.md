@@ -23,66 +23,53 @@ Currently focusing on developing server-side systems with C# and the .NET platfo
 
 ---
 
-### 🙋‍♂️ Giới thiệu
+### 👨‍💻 About Me
 
-- 🔧 Hiện tại đang phát triển các hệ thống back-end với **C#**, **.NET**
-- 🌱 Liên tục học hỏi về front-end để trở thành một full-stack dev
-- 🛠 Thành thạo **Entity Framework**, **Spring Boot**, **REST API**, **MySQL**, **SQL Server**
-- 📬 Liên hệ: **hoangnv10052004@gmail.com**
-- 😂 Tính cách: Hòa đồng, hài hước, dễ gần
+- 🎯 Currently working with **C#**, **.NET** to build robust backend systems  
+- 💡 Improving **Front-End** skills daily to become a **Full-Stack Developer**  
+- ⚙️ Comfortable with **Entity Framework**, **Spring Boot**, **REST APIs**, **SQL Server**, **MySQL**  
+- 🎓 Passionate about writing clean code, debugging, and optimizing performance  
+- 📫 Reach me at: **hoangnv10052004@gmail.com**  
+- 🤝 Friendly, curious, and a strong team player  
 
 ---
 
-### 📌 Kỹ năng & Công cụ sử dụng
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
 </p>
 
 ---
 
-### 💬 Bạn có thể hỏi mình về
+### 🧠 Ask Me About
 
-- ✅ C# / .NET / Entity Framework  
-- ✅ MySQL / SQL Server  
-- ✅ Spring Boot / Java Backend  
-- ✅ RESTful APIs & hệ thống server-side  
-- ✅ Debugging / Clean Code / Optimization
+- 🔹 C# / .NET / Entity Framework  
+- 🔹 Java / Spring Boot  
+- 🔹 RESTful API & Server Architecture  
+- 🔹 Database Design & Optimization (MySQL, SQL Server)  
+- 🔹 Code Debugging / Performance Tuning  
 
 ---
 
-### 🌐 Mạng xã hội
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyenviethoang" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/nguyenviethoang1005" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" />
   </a>
-</p>
-
----
-
-### 📊 Thống kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boylovegirl1005&show_icons=true&theme=radical&border_radius=10&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boylovegirl1005&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boylovegirl1005&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
