@@ -65,11 +65,10 @@ Currently focusing on developing server-side systems with C# and the .NET platfo
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyenviethoang" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+  <a href="https://www.linkedin.com/in/nguyenviethoang" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/nguyenviethoang1005" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" />
+  <a href="https://www.facebook.com/nguyenviethoang1005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
   </a>
 </p>
