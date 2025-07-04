@@ -1,36 +1,28 @@
 <!-- Banner -->
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%;"/>
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" alt="banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Viết Hoàng</h1>
 
 <h3 align="center">
-An enthusiastic Back-End developer from 🇻🇳 Vietnam, with a clear vision to become a professional Full-Stack Developer in the future.  
-Currently focusing on developing server-side systems with C# and the .NET platform, while constantly improving my Front-End skills to perfect my full-stack capabilities.
+🚀 A passionate Back-End developer from 🇻🇳 Vietnam with a bold ambition to become a high-impact Full-Stack Developer.
 </h3>
 
-<br/>
-
----
-
-<!-- Coding GIF -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="Coding" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boylovegirl1005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=boylovegirl1005&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎯 Currently working with **C#**, **.NET** to build robust backend systems  
-- 💡 Improving **Front-End** skills daily to become a **Full-Stack Developer**  
-- ⚙️ Comfortable with **Entity Framework**, **Spring Boot**, **REST APIs**, **SQL Server**, **MySQL**  
-- 🎓 Passionate about writing clean code, debugging, and optimizing performance  
-- 📫 Reach me at: **hoangnv10052004@gmail.com**  
-- 🤝 Friendly, curious, and a strong team player  
+- 🔧 Working mainly with **C#** and **.NET** to build robust backend systems  
+- 🌱 Sharpening my **Front-End** skills daily to become a **Full-Stack Developer**  
+- 🔥 Experienced in **Entity Framework**, **Spring Boot**, **RESTful APIs**, **SQL Server**, and **MySQL**  
+- 🧠 Passionate about **clean code**, **performance optimization**, and **scalability**  
+- 📫 Reach me via: **hoangnv10052004@gmail.com**  
+- 🧩 Fun fact: I enjoy reverse engineering things just for fun 😎
 
 ---
 
@@ -52,13 +44,13 @@ Currently focusing on developing server-side systems with C# and the .NET platfo
 
 ---
 
-### 🧠 Ask Me About
+### 📌 Ask Me About
 
-- 🔹 C# / .NET / Entity Framework  
-- 🔹 Java / Spring Boot  
-- 🔹 RESTful API & Server Architecture  
-- 🔹 Database Design & Optimization (MySQL, SQL Server)  
-- 🔹 Code Debugging / Performance Tuning  
+- ⚙️ C# / .NET / Entity Framework  
+- ☕ Java / Spring Boot  
+- 📡 RESTful API & Server Architecture  
+- 🧩 Database Design & Optimization (MySQL, SQL Server)  
+- 🛠️ Debugging & Performance Tuning  
 
 ---
 
@@ -69,6 +61,22 @@ Currently focusing on developing server-side systems with C# and the .NET platfo
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 10px;" />
   </a>
   <a href="https://www.facebook.com/nguyenviethoang1005" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" style="margin-right: 10px;" />
   </a>
+  <a href="mailto:hoangnv10052004@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
+  </a>
+</p>
+
+---
+
+### 🎯 Quote that drives me
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+---
+
+### 💻 Coding Mode: ON
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="Coding" width="450" />
 </p>
