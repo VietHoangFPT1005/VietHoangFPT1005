@@ -1,77 +1,98 @@
-<!-- Banner -->
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%;"/>
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%; border-radius: 10px;"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Viết Hoàng</h1>
+<h3 align="center">🎓 Software Engineering Student at FPT University | 💻 C#/.NET Backend Developer</h3>
 
-<h3 align="center">
-An enthusiastic Back-End developer from 🇻🇳 Vietnam, with a clear vision to become a professional Full-Stack Developer in the future.  
-Currently focusing on developing server-side systems with C# and the .NET platform, while constantly improving my Front-End skills to perfect my full-stack capabilities.
-</h3>
-
-<br/>
-
----
-
-<!-- Coding GIF -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="Coding" width="450" />
+  A passionate Backend Developer from 🇻🇳 Vietnam, focused on building high-performance, maintainable server-side systems and RESTful APIs. I strongly advocate for <b>Clean Architecture</b>, <b>SOLID principles</b>, and <b>Clean Code</b>. Currently expanding my expertise in the .NET ecosystem and AI integration.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boylovegirl1005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=boylovegirl1005&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎯 Currently working with **C#**, **.NET** to build robust backend systems  
-- 💡 Improving **Front-End** skills daily to become a **Full-Stack Developer**  
-- ⚙️ Comfortable with **Entity Framework**, **Spring Boot**, **REST APIs**, **SQL Server**, **MySQL**  
-- 🎓 Passionate about writing clean code, debugging, and optimizing performance  
-- 📫 Reach me at: **hoangnv10052004@gmail.com**  
-- 🤝 Friendly, curious, and a strong team player  
+### 🚀 About Me
+- 🎓 **Education:** Senior Software Engineering student at **FPT University** (Expected July 2026) | GPA: 3.0/4.0
+- 💼 **Experience:** Former **C#/.NET Developer Intern** at **FPT Software**, where I collaborated to deliver high-quality, scalable solutions and improved bug tracking/documentation efficiency.
+- 💡 **Core Focus:** ASP.NET Core, Entity Framework Core, SignalR, and modern software architectures (DDD, Clean Architecture).
+- 🧠 **Continuous Learning:** Always exploring new .NET technologies and utilizing AI tools (Copilot, Cursor, Gemini) to optimize development workflows.
+- 📫 **How to reach me:** [hoangnv10052004@gmail.com](mailto:hoangnv10052004@gmail.com)
+- ⚡ **Fun fact:** I am a sociable person who loves balancing code with sports like Football, Volleyball, and Badminton! 🏸⚽
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
+**Languages & Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-00599C?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
+**Backend & Architecture**
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-30BA8F?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-2C2C2C?style=for-the-badge&logo=architecture&logoColor=white" />
+</p>
 
-### 🎯 Quote that drives me
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+**Databases & DevOps/Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 ---
 
-### 🧠 Ask Me About
+### 🔥 Featured Projects
 
-- 🔹 C# / .NET / Entity Framework  
-- 🔹 Java / Spring Boot  
-- 🔹 RESTful API & Server Architecture  
-- 🔹 Database Design & Optimization (MySQL, SQL Server)  
-- 🔹 Code Debugging / Performance Tuning  
+| 🏆 Project Name | 📝 Description | 🚀 Tech Stack |
+| :--- | :--- | :--- |
+| **[FASHIONSTYLE (AI-Integrated E-Commerce)](https://github.com/VietHoangFPT1005/BE-FashionStyle)** | **Solo Project:** Architected a highly maintainable backend using **Clean Architecture & DDD**. Integrated **Google Gemini AI** for smart clothing size recommendations. Implemented real-time automated payments (SePay API) and live customer chat. Containerized with Docker. | `.NET 9`, `EF Core`, `SignalR`, `JWT`, `Docker`, `Render` |
+| **[IGCSE SML-E-Learning Platform](https://github.com/VietHoangFPT1005/BE-IGCSE)** | Built multi-portal **Role-Based Access Control (RBAC)** and Claim-based authorization. Integrated payment gateways with webhooks and engineered async multimedia streaming to improve material loading times by 20%. | `ASP.NET Core Identity`, `JWT`, `Webhooks` |
+| **[Movie Theater Booking System](https://github.com/VietHoangFPT1005/BE-MovieTheater)** | Developed a high-availability **seat-lock system via SignalR**. Implemented Optimistic/Pessimistic Concurrency Control to resolve race conditions, ensuring 100% data consistency during concurrent bookings. | `ASP.NET Core`, `SignalR`, `SQL Server`, `LINQ` |
 
 ---
 
-### 🌐 Connect With Me
+### 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/boylovegirl1005">
+    <img src="https://github-readme-stats.vercel.app/api?username=boylovegirl1005&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/boylovegirl1005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boylovegirl1005&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boylovegirl1005&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="left">
   <a href="https://www.linkedin.com/in/nguyenviethoang" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hoangnv10052004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/nguyenviethoang1005" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
