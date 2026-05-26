@@ -83,19 +83,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=VietHoangFPT1005&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VietHoangFPT1005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-vi%E1%BA%BFt-ho%C3%A0ng-a95a0b362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:hoangnv10052004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://github.com/VietHoangFPT1005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+**— Cory House**
+
+</div>
