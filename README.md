@@ -1,89 +1,123 @@
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%; border-radius: 10px;"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Nguyễn Viết Hoàng</h1>
-<h3 align="center">🎓 Software Engineering Student | 💻 C#/.NET Backend Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Ho%C3%A0ng+%F0%9F%91%8B;C%23+%2F+.NET+Backend+Developer;Clean+Code+%7C+SOLID+%7C+OOP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  [cite_start]A passionate Backend Developer from 🇻🇳 Vietnam, focused on building high-performance, maintainable server-side systems and RESTful APIs[cite: 5, 7]. [cite_start]I strongly advocate for <b>OOP</b>, <b>SOLID principles</b>, and <b>Clean Code architecture</b>[cite: 6, 13].
+  <img src="https://raw.githubusercontent.com/VietHoangFPT1005/VietHoangFPT1005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VietHoangFPT1005&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VietHoangFPT1005&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend_Development-2196F3?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based_in-Ho_Chi_Minh_City-red?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- [cite_start]🎯 **Objective:** Seeking a C#/.NET Developer role to build high-performance, maintainable back-end systems and RESTful APIs while growing within a professional engineering team[cite: 7].
-- [cite_start]💼 **Experience:** Former **C#/.NET Developer Intern** at **FPT Software** (05/2025 - 09/2025)[cite: 47, 48, 49].
-- [cite_start]🎓 **Education:** Senior Software Engineering student at **FPT University** (Expected July 2026)[cite: 57, 58, 61].
-- [cite_start]🧠 **Methodologies:** Expert in applying OOP, SOLID, and Clean Code principles across project lifecycles[cite: 6, 23, 55].
-- 📫 **How to reach me:** [hoangnv10052004@gmail.com](mailto:hoangnv10052004@gmail.com)
-- [cite_start]⚡ **Interests:** Exploring new .NET technologies, AI tools integration, Football, Volleyball, and Badminton 🏸⚽ [cite: 65]
-
----
-
-### 🛠️ Technical Skills
-
-**Programming Languages & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/OOP_|_SOLID-00599C?style=for-the-badge&logoColor=white" />
-</p>
-
-**Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-30BA8F?style=for-the-badge&logo=nuget&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-**Databases & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+```yaml
+name:       Nguyễn Viết Hoàng
+role:       C# / .NET Backend Developer
+university: FPT University – Ho Chi Minh Campus
+graduate:   July 2026
+experience: C#/.NET Developer Intern @ FPT Software  (05/2025 – 09/2025)
+focus:
+  - High-performance RESTful APIs & microservices
+  - Clean Architecture · CQRS · Domain-Driven Design
+  - OOP · SOLID principles · Clean Code
+contact:    hoangnv10052004@gmail.com
+hobbies:    [ Football ⚽, Volleyball 🏐, Badminton 🏸, Exploring .NET ecosystem ]
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+**Languages & Paradigms**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OOP · SOLID](https://img.shields.io/badge/OOP_%7C_SOLID-00599C?style=for-the-badge&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-30BA8F?style=for-the-badge&logo=nuget&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MediatR · CQRS](https://img.shields.io/badge/MediatR_%7C_CQRS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Databases & DevOps**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Project — EduConnect
+
+> An **edtech platform** connecting students with tutors, featuring an integrated AI tutoring system for solving and teaching academic content — targeting both **web** and **mobile**.
+
+| Layer | Stack |
+|:---|:---|
+| 🖥️ Backend | ASP.NET Core · CQRS / MediatR · Clean Architecture |
+| 🌐 Web Frontend | Next.js |
+| 📱 Mobile | React Native |
+| 🤖 AI / RAG | OpenAI · Gemini · Vector Database · RAG Pipeline |
+| ⚙️ Infra | Docker · GitHub Actions · Cloud Deployment |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VietHoangFPT1005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VietHoangFPT1005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VietHoangFPT1005&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nguyenviethoang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:hoangnv10052004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/VietHoangFPT1005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>
+
