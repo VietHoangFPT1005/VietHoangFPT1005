@@ -10,31 +10,28 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **UniLink** & **EduConnect** — tutoring platforms integrating eKYC and escrow payments
-- 🌱 Deepening my skills in **.NET Core · Clean Architecture · Microservices**
-- 🎓 Final-year student at **FPT University** | C# / .NET Developer Intern @ **FPT Software** (05/2025 – 09/2025)
-- ⚡ Fun fact: When I'm not coding, you can find me organizing weekly badminton matches! 🏸
-- 📫 Reach me at **hoangnv10052004@gmail.com**
+- 🔭 Currently building **UniLink** & **EduConnect** — dual-marketplace tutoring platforms.
+- 💡 Focusing on integrating complex features like **eKYC verification**, **Escrow payments**, and **AI / RAG pipelines**.
+- 🌱 Deepening my skills in **.NET Core, Clean Architecture, MediatR (CQRS)**, and **Microservices**.
+- 🎓 Final-year student at **FPT University** | C# / .NET Developer Intern @ **FPT Software** (05/2025 – 09/2025).
+- ⚡ Fun fact: When I'm not writing backend logic, you can find me organizing weekend badminton matches! 🏸
+- 📫 Reach me at: **hoangnv10052004@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-vi%E1%BA%BFt-ho%C3%A0ng-a95a0b362">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hoangnv10052004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/VietHoangFPT1005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Đây là những dự án tâm huyết mà mình đang xây dựng và phát triển, tập trung mạnh vào kiến trúc hệ thống và luồng dữ liệu phức tạp:
+
+| 🏆 Project | 📝 Description | 🛠️ Core Tech Stack |
+| :--- | :--- | :--- |
+| **[UniLink]** | A dual-marketplace platform for 1-on-1 tutoring. Implemented secure **Escrow payments** and **eKYC user verification** to ensure platform trust and safety. | `.NET Core`, `Clean Architecture`, `Next.js`, `PostgreSQL` |
+| **[EduConnect]** | An EdTech ecosystem featuring an integrated **AI tutoring system**. Utilized **Gemini API** and built a **RAG Pipeline** for solving and explaining academic content. | `ASP.NET Core`, `MediatR / CQRS`, `React Native`, `Docker` |
+| **[FPTU Systems]** | Developed robust backends and Mobile APIs for various academic software systems (including PRN232 & FashionStyle), managing complex schemas and login modules. | `C#`, `SQL Server`, `Flutter / Dart`, `Render` |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <table align="center">
   <tr>
@@ -62,4 +59,43 @@
     <td align="center"><strong>📱 Frontend & UI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🚀 DevOps & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VietHoangFPT1005&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VietHoangFPT1005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me
