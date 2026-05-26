@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Ho%C3%A0ng+%F0%9F%91%8B;C%23+%2F+.NET+Backend+Developer;Clean+Code+%7C+SOLID+%7C+OOP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there!+I'm+Hoang+%F0%9F%91%8B%3BC%23+%2F+.NET+Backend+Developer%3BClean+Code+%7C+SOLID+%7C+OOP%3BAlways+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VietHoangFPT1005/VietHoangFPT1005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/VietHoangFPT1005/VietHoangFPT1005/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
@@ -40,7 +40,6 @@ hobbies:    [ Football ⚽, Volleyball 🏐, Badminton 🏸, Exploring .NET ecos
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOP · SOLID](https://img.shields.io/badge/OOP_%7C_SOLID-00599C?style=for-the-badge&logoColor=white)
 
 **Backend**
@@ -55,7 +54,6 @@ hobbies:    [ Football ⚽, Volleyball 🏐, Badminton 🏸, Exploring .NET ecos
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,9 +78,9 @@ hobbies:    [ Football ⚽, Volleyball 🏐, Badminton 🏸, Exploring .NET ecos
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VietHoangFPT1005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietHoangFPT1005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -94,7 +92,7 @@ hobbies:    [ Football ⚽, Volleyball 🏐, Badminton 🏸, Exploring .NET ecos
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VietHoangFPT1005&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VietHoangFPT1005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
