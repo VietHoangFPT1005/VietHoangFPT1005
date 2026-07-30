@@ -83,7 +83,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VietHoangFPT1005&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/VietHoangFPT1005?cardType=level&theme=github-dark&fontFamily=Lato&preferLogin=false"
+    alt="VietHoangFPT1005's GitHub Stats"
+  />
 </p>
 
 ---
